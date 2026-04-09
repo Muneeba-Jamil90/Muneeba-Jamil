@@ -19,13 +19,13 @@ Building clean, scalable web and mobile applications with a focus on user-centri
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **Full Stack Web & Mobile Projects**
+- 🔭 I’m currently working on **Full Stack Web & Mobile Projects **
 - 🌱 I’m currently learning **Advanced UI/UX Motion Design**
-- 💬 Ask me about **React, React Native, and Backend Architecture**
+- 💬 Ask me about **React.js,Javascript,Frontend  and Backend Architecture**
 - 📫 How to reach me: **[muneebajamil895@gmail.com]**
 
 ### 📊 GitHub Stats
-
-![Muneeba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeba-Jamil90&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeba-Jamil90&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Muneeba-Jamil90&show_icons=true&theme=tokyonight" alt="Muneeba-Jamil90" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeba-Jamil90&theme=tokyonight" alt="Muneeba-Jamil90" />
+</p>
