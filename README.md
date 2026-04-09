@@ -1,5 +1,5 @@
-# Muneeba-Jamil
-# Hi, I'm Muneeba Jamil 👋
+
+# Hi, Here Muneeba Jamil 👋
 
 ### 🎨 Full Stack Developer & UI/UX Designer 🚀
 
@@ -25,4 +25,7 @@ Building clean, scalable web and mobile applications with a focus on user-centri
 - 📫 How to reach me: **[muneebajamil895@gmail.com]**
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeba-Jamil90&show_icons=true&theme=tokyonight)
+
+![Muneeba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeba-Jamil90&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeba-Jamil90&layout=compact&theme=tokyonight)
