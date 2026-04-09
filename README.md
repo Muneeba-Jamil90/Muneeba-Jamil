@@ -25,7 +25,11 @@ Building clean, scalable web and mobile applications with a focus on user-centri
 - 📫 How to reach me: **[muneebajamil895@gmail.com]**
 
 ### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Muneeba-Jamil90&show_icons=true&theme=tokyonight" alt="Muneeba-Jamil90" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeba-Jamil90&theme=tokyonight" alt="Muneeba-Jamil90" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muneeba-Jamil90&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Muneeba-Jamil90" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeba-Jamil90&layout=compact&theme=tokyonight&hide_border=true" alt="Muneeba-Jamil90" />
 </p>
